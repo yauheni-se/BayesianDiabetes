@@ -22,8 +22,8 @@ Final estimates were achieved by applying the Hamiltonian Monte Carlo algorithm,
 # 🏆 Findings
 
 <div align="center">
-  <img src="https://github.com/yauheni-se/BayesianDiabetes/assets/84158821/6269a535-3590-4e48-8afc-2de7f3c458b4" alt=""/>
-  <img src="https://github.com/yauheni-se/BayesianDiabetes/assets/84158821/67e7749f-5d0e-4222-a28f-6f9af96271aa" alt=""/>
+  <img src="https://github.com/yauheni-se/BayesianDiabetes/assets/84158821/6269a535-3590-4e48-8afc-2de7f3c458b4" alt="" width="400"/>
+  <img src="https://github.com/yauheni-se/BayesianDiabetes/assets/84158821/67e7749f-5d0e-4222-a28f-6f9af96271aa" alt="" width="400" />
 </div>
 
 - Variables indicating the number of **pregnancies**, **glucose**, and **BMI** levels, as well as the **age** of the respondent met a priori assumptions 🎯
